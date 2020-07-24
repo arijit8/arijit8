@@ -2,7 +2,7 @@
 
 <!--
 **arijit8/arijit8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - 🔭 I’m currently working on Computer Vision ...
 - 🌱 I’m presently learning GAN...
@@ -10,4 +10,4 @@
 - 💬 Let me know if you have an interesting topic to discuss... 
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/arijit8/ 
 - ⚡ Fun fact: Treasure consciousness...
--->
+
